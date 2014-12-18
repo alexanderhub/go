@@ -1,5 +1,5 @@
 # This is Alexander Dolinin's Open Source Data Science Masters curriculum, 
-## inspired by Clare Corthell and forked from her [datasciencemasters/go](https://github.com/datasciencemasters/go) repo.
+## inspired by [Clare Corthell](datasciencemasters.org) and forked from her [datasciencemasters/go](https://github.com/datasciencemasters/go) repo.
 
 Content below will be customized as I'm working through this project.
 
