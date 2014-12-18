@@ -1,13 +1,9 @@
 # This is Alexander Dolinin's Open Source Data Science Masters curriculum, 
-## inspired by [Clare Corthell](http://datasciencemasters.org) and forked from her [datasciencemasters/go](https://github.com/datasciencemasters/go) repo.
+## inspired by [Clare Corthell](http://bit.ly/clarecorthelltwitter) and forked from her [datasciencemasters/go](https://github.com/datasciencemasters/go) repo.
 
 Content below will be customized as I'm working through this project.
 
 ***
-
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
-
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
 
 ## The Open-Source Data Science Masters
 
